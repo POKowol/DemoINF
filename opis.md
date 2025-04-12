@@ -1,1 +1,5 @@
 linia pierwsza
+
+```
+kod python
+```
