@@ -1,1 +1,4 @@
-linia pierwsza
+# linia pierwsza
+$$
+\int \beta
+$$
